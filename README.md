@@ -21,9 +21,6 @@ End-to-end **Order-to-Cash (O2C)** implementation in SAP SD for **Reliance Retai
 SAP_O2C_Project_Priyanshu_Rajhans/
 ├── README.md
 ├── generate_data.py                              ← Generates SAP CSV datasets
-├── run_project.py                                ← Generates all charts & dashboard
-├── generate_pdf.py                               ← Generates Project_Documentation.pdf
-├── generate_docx.js                              ← Generates project report DOCX
 │
 ├── data/
 │   ├── sap_sales_orders.csv                      ← 120 SAP O2C sales order records
